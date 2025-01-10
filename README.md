@@ -1,4 +1,3 @@
- [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcypfer.com%2Fwhat-are-the-6-types-of-cyber-security%2F&psig=AOvVaw36g-CtafjiilAIAh60fxHi&ust=1736629372644000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiK-dqG7IoDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Yusuf Cemal Temel</h1>
 <h3 align="center">As a young software engineer, I am actively working in the field of cyber security and striving to reach an advanced level in python language. While doing these, I hope that I can benefit and improve myself more by presenting the projects I have developed myself on my GitHub platform :)</h3>
 
