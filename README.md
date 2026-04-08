@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufcemaltemel" alt="yusufcemaltemel" /></a> </p>
 
-- 🔭 I’m currently working on **Socket**
+- 🔭 I’m currently working on **Everything i need**
 
 - 🌱 I’m currently learning **Cyber Security**
 
