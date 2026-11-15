@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "2.0",
+  "released_at": "2026-11-16",
+  "summary": {
+    "title": "Threat Model",
+    "owner": "Yusuf Cemal Temel",
+    "description": "Full-stack student collaboration and study session matching platform",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
